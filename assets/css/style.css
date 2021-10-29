@@ -9,10 +9,25 @@
 # General
 --------------------------------------------------------------*/
 body {
-  background: #fff;
+  background:#333132;
   color: #2f3138;
   font-family: "Open Sans", sans-serif;
 }
+@import url(https://fonts.googleapis.com/css?family=Advent+Pro:100);
+html { 
+  background:  url(https://giphy.com/embed/cmegx6SssTKmEFEcwj) no-repeat center center fixed; 
+  background-size: cover;
+}
+h1{
+  font-family: 'Advent Pro', sans-serif;
+  font-size: 3em;
+  margin: .2em .5em;
+  color: rgba(0,0,0, 0.3);
+}
+body {
+    height: 100%;
+}
+
 
 a {
   color: #f82249;
@@ -36,7 +51,7 @@ h1, h2, h3, h4, h5, h6 {
   font-weight: 400;
   margin: 0 0 20px 0;
   padding: 0;
-  color: #0e1b4d;
+  color: #1c9fd9;
 }
 
 .main-page {

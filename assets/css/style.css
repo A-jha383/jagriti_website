@@ -4,7 +4,7 @@
 * Author: BootstrapMade.com
 * License: https://bootstrapmade.com/license/
 */
-
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display+SC:wght@900&display=swap');
 /*--------------------------------------------------------------
 # General
 --------------------------------------------------------------*/
@@ -461,13 +461,18 @@ h1, h2, h3, h4, h5, h6 {
 }
 #hero h1 {
   color: #fff;
-  font-family: "Raleway", sans-serif;
-  font-size: 56px;
+  /* font-family: "Raleway", sans-serif; */
+  font-family: 'Playfair Display SC', serif;
+  font-size: 82px;
   font-weight: 600;
   text-transform: uppercase;
 }
-#hero h1 span {
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:ital,wght@1,100&display=swap');
+#hero span {
   color: #f82249;
+  font-size: 30px;
+  font-weight: 100;
+  font-family: 'Josefin Sans', sans-serif;
 }
 @media (max-width: 991px) {
   #hero h1 {

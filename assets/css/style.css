@@ -28,7 +28,6 @@ body {
     height: 100%;
 }
 
-
 a {
   color: #f82249;
   text-decoration: none;
@@ -52,6 +51,10 @@ h1, h2, h3, h4, h5, h6 {
   margin: 0 0 20px 0;
   padding: 0;
   color: #1c9fd9;
+}
+
+.motoClass{
+  font-size: 29px;
 }
 
 .main-page {
@@ -1195,17 +1198,17 @@ h1, h2, h3, h4, h5, h6 {
 }
 #contact .contact-info address, #contact .contact-info p {
   margin-bottom: 0;
-  color: #112363;
+  color: #b5c1ee;
 }
 #contact .contact-info h3 {
   font-size: 18px;
   margin-bottom: 15px;
   font-weight: bold;
   text-transform: uppercase;
-  color: #112363;
+  color: #1336b6;
 }
 #contact .contact-info a {
-  color: #4869df;
+  color: #b5c1ee;
 }
 #contact .contact-info a:hover {
   color: #f82249;

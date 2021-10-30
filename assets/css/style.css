@@ -602,12 +602,17 @@ h1, h2, h3, h4, h5, h6 {
   position: relative;
   color: #fff;
   padding: 60px 0 40px 0;
+  text-align: center;
 }
 @media (min-width: 1024px) {
   #about {
     background-attachment: fixed;
   }
 }
+/* .col-lg-6{
+  justify-content: center;
+} */
+
 #about:before {
   content: "";
   background: rgba(13, 20, 41, 0.8);

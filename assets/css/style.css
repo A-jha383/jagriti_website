@@ -952,6 +952,13 @@ h1, h2, h3, h4, h5, h6 {
 #gallery {
   padding: 60px;
   overflow: hidden;
+  background-color: #85adbe;
+}
+#gallery h2{
+  color: #10284c;
+}
+#gallery p{
+  color: #5d6777;
 }
 #gallery .swiper-pagination {
   margin-top: 20px;

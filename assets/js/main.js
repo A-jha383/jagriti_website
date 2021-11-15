@@ -1,9 +1,4 @@
-/**
-* Template Name: TheEvent - v4.6.0
-* Template URL: https://bootstrapmade.com/theevent-conference-event-bootstrap-template/
-* Author: BootstrapMade.com
-* License: https://bootstrapmade.com/license/
-*/
+
 (function() {
   "use strict";
 
@@ -330,3 +325,6 @@ var swiper = new Swiper('.product-slider', {
     $(".js-fav").on("click", function() {
         $(this).find('.heart').toggleClass("is-active");
     });
+
+
+    

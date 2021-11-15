@@ -1735,12 +1735,13 @@ body {
 }
 
 .card {
-  position: relative;
+  position: center;
   display: block;
   height: 100%;
   border-radius: calc(var(--curve) * 1px);
   overflow: hidden;
   text-decoration: none;
+  justify-content: center;
 }
 
 .card-image{
@@ -1826,5 +1827,6 @@ body {
   font-weight: bold;
   font-size: 18px;
 }
-        
+   
+
       

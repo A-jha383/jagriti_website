@@ -25,6 +25,7 @@ h1{
   color: rgba(0,0,0, 0.3);
 }
 body {
+  font-family: Copperplate, Papyrus, fantasy;
     height: 100%;
 }
 
@@ -1829,5 +1830,4 @@ body {
   font-size: 18px;
 }
    
-
-      
+  
